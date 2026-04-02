@@ -1,0 +1,3 @@
+# No external dependencies needed
+# All libraries used are Python built-ins:
+# os, json, urllib, http.server, datetime
